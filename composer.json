@@ -1,17 +1,17 @@
 {
-    "name": "paypal/paypal-checkout-sdk",
+    "name": "minh7721/paypal-checkout-sdk",
     "description": "PayPal's PHP SDK for Checkout REST APIs",
     "keywords": ["paypal", "payments", "rest", "sdk", "orders", "checkout"],
     "type": "library",
     "license": "Apache-2.0",
-    "homepage": "http://github.com/paypal/Checkout-PHP-SDK/",
+    "homepage": "http://github.com/minh7721/Checkout-PHP-SDK/",
     "require": {
         "paypal/paypalhttp": "1.0.1"
     },
     "authors": [
         {
             "name": "PayPal",
-            "homepage": "https://github.com/paypal/Checkout-PHP-SDK/contributors"
+            "homepage": "https://github.com/minh7721/Checkout-PHP-SDK/contributors"
         }
     ],
     "require-dev": {
